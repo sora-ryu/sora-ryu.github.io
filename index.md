@@ -30,7 +30,17 @@ Proposed and implemented a simple 1D-CNN architecture to classify emotional sent
 
 Developed image classification model serving program where a Docker container is built to use Densenet-121 model for inference and image query requests are handled by Flask.
 
+<center><img src="images/ml-inference.png"/></center>
 
 ## Natural Language Processing
 
 ## Software Engineering
+
+### MapReduce Program
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/MapReduce)
+
+Developed our own MapReduce library code which runs on a single server, but mimics the behavior of a distributed multi-process implementation via RMI and also tolerates worker servers' failure by throwing RemoteException. The program has a master-slave architecture where the master controls and distributes th work, and the slaves work as mappers or reducers.
+
+<center><img src="images/mapreduce.png"/></center>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

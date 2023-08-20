@@ -2,6 +2,11 @@
 ---
 ## Computer Vision
 
+### 4D Hand Gesture Recognition using Point Set
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/4D-Gesture-Recognition-using-Point-Sets)
+
+Proposed PointNet & LSTM based 4D Hand Gesture Recognition approach and trained it with 3D Point Cloud dataset which are generated from the raw video data. Achieved 84.28% test accuracy for the 14 gestures classification task.
+
 ### REAL:TELLER
 [![View Demo](https://img.shields.io/badge/GoogleDrive-View_Demo-purple?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1uvXRPwfuKoAzY0q72FZy38dfvCss7yVi/view?usp=drive_link)
 
@@ -13,6 +18,7 @@ Developed a life-supportive real-time service for the blind to perceive indoor s
 ![Kinect](https://img.shields.io/badge/Kinect-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
 
 
+---
 ## Machine Learning
 
 ### Emotional Sentiment Classification using CNN
@@ -32,8 +38,15 @@ Developed image classification model serving program where a Docker container is
 
 <center><img src="images/ml-inference.png"/></center>
 
+---
 ## Natural Language Processing
 
+### Token Level Classification for Argument Mining
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/Token-level-Classification-for-Argument-Mining-with-Multitask-Learning)
+
+Focused on modeling for the task of argumentative and rhetorical elements segmentation, adopting multitask learning approach, and explored the behavior of our proposed deep learning workflow which outperformed the baseline as well as achieved considerable token-level accuracy of 70.58%.
+
+---
 ## Software Engineering
 
 ### MapReduce Program

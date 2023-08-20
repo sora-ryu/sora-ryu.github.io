@@ -1,11 +1,15 @@
-title: Sora Ryu # your name (or website title) here
+title: <p align="center"> Sora Ryu </p> # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
+  <p align="justify>
   I am currently a Machine Learning Intern at National Renewable Energy Laboratory with a focus on Computer Vision and Deep Learning research.
   <br><br>
-  <a href="https://www.linkedin.com/in/sora-ryu-89b2661b0/">LinkedIn</a> 
-  
+  </p>
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/sora-ryu-89b2661b0/">LinkedIn</a> |
+  </p>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme

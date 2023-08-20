@@ -5,9 +5,7 @@
 ### REAL:TELLER
 [![View Demo](https://img.shields.io/badge/GoogleDrive-View_Demo-purple?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1uvXRPwfuKoAzY0q72FZy38dfvCss7yVi/view?usp=drive_link)
 
-Developed a life-supportive real-time service for the blind to perceive indoor situations with the situation-aware technology.
-
-Implemented the system which can recognize objects and each locations, human faces with each actions (still, sit, walk and drink).
+Developed a life-supportive real-time service for the blind to perceive indoor situations with the situation-aware technology. Implemented the system which can recognize objects and each locations, human faces with each actions (still, sit, walk and drink).
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,9 +18,18 @@ Implemented the system which can recognize objects and each locations, human fac
 ### Emotional Sentiment Classification using CNN
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/Emotional-Sentiment-Classification-using-CNN/tree/main)
 
-Proposed and implemented a simple 1D-CNN architecture to classify emotional sentiment based on EEG brainwave data.
+Proposed and implemented a simple 1D-CNN architecture to classify emotional sentiment based on EEG brainwave data. Achieved 97% accuracy on test set and improved into 98.13% test accuracy with additional feature selection method.
 
-Achieved 97% accuracy on test set and improved into 98.13% test accuracy with additional feature selection method.
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### ML Inference
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/ML-Inference)
+
+Developed image classification model serving program where a Docker container is built to use Densenet-121 model for inference and image query requests are handled by Flask.
+
 
 ## Natural Language Processing
 

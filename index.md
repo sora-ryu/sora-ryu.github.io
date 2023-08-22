@@ -5,12 +5,15 @@
 ### 4D Hand Gesture Recognition using Point Set
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/4D-Gesture-Recognition-using-Point-Sets)
 
-Proposed PointNet & LSTM based 4D Hand Gesture Recognition approach and trained it with 3D Point Cloud dataset which are generated from the raw video data. Achieved 84.28% test accuracy for the 14 gestures classification task.
+<div style="text-align: justify">Proposed PointNet & LSTM based 4D Hand Gesture Recognition approach and trained it with 3D Point Cloud dataset which are generated from the raw video data. Achieved 84.28% test accuracy for the 14 gestures classification task.</div>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### REAL:TELLER
 [![View Demo](https://img.shields.io/badge/GoogleDrive-View_Demo-purple?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1uvXRPwfuKoAzY0q72FZy38dfvCss7yVi/view?usp=drive_link)
 
-Developed a life-supportive real-time service for the blind to perceive indoor situations with the situation-aware technology. Implemented the system which can recognize objects and each locations, human faces with each actions (still, sit, walk and drink).
+<div style="text-align: justify">Developed a life-supportive real-time service for the blind to perceive indoor situations with the situation-aware technology. Implemented the system which can recognize objects and each locations, human faces with each actions (still, sit, walk and drink).</div>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,7 +27,7 @@ Developed a life-supportive real-time service for the blind to perceive indoor s
 ### Emotional Sentiment Classification using CNN
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/Emotional-Sentiment-Classification-using-CNN/tree/main)
 
-Proposed and implemented a simple 1D-CNN architecture to classify emotional sentiment based on EEG brainwave data. Achieved 97% accuracy on test set and improved into 98.13% test accuracy with additional feature selection method.
+<div style="text-align: justify">Proposed and implemented a simple 1D-CNN architecture to classify emotional sentiment based on EEG brainwave data. Achieved 97% accuracy on test set and improved into 98.13% test accuracy with additional feature selection method.</div>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,9 +37,13 @@ Proposed and implemented a simple 1D-CNN architecture to classify emotional sent
 ### ML Inference
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/ML-Inference)
 
-Developed image classification model serving program where a Docker container is built to use Densenet-121 model for inference and image query requests are handled by Flask.
+<div style="text-align: justify">Developed image classification model serving program where a Docker container is built to use Densenet-121 model for inference and image query requests are handled by Flask.</div>
 
 <center><img src="images/ml-inference.png"/></center>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 ## Natural Language Processing
@@ -44,7 +51,7 @@ Developed image classification model serving program where a Docker container is
 ### Token Level Classification for Argument Mining
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/Token-level-Classification-for-Argument-Mining-with-Multitask-Learning)
 
-Focused on modeling for the task of argumentative and rhetorical elements segmentation, adopting multitask learning approach, and explored the behavior of our proposed deep learning workflow which outperformed the baseline as well as achieved considerable token-level accuracy of 70.58%.
+<div style="text-align: justify">Focused on modeling for the task of argumentative and rhetorical elements segmentation, adopting multitask learning approach, and explored the behavior of our proposed deep learning workflow which outperformed the baseline as well as achieved considerable token-level accuracy of 70.58%.</div>
 
 ---
 ## Software Engineering
@@ -52,8 +59,9 @@ Focused on modeling for the task of argumentative and rhetorical elements segmen
 ### MapReduce Program
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/MapReduce)
 
-Developed our own MapReduce library code which runs on a single server, but mimics the behavior of a distributed multi-process implementation via RMI and also tolerates worker servers' failure by throwing RemoteException. The program has a master-slave architecture where the master controls and distributes th work, and the slaves work as mappers or reducers.
+<div style="text-align: justify">Developed our own MapReduce library code which runs on a single server, but mimics the behavior of a distributed multi-process implementation via RMI and also tolerates worker servers' failure by throwing RemoteException. The program has a master-slave architecture where the master controls and distributes th work, and the slaves work as mappers or reducers.</div>
 
 <center><img src="images/mapreduce.png"/></center>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)

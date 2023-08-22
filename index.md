@@ -20,6 +20,8 @@
 
 <div style="text-align: justify">Proposed PointNet & LSTM based 4D Hand Gesture Recognition approach and trained it with 3D Point Cloud dataset which are generated from the raw video data. Achieved 84.28% test accuracy for the 14 gestures classification task.</div>
 
+<center><img src="images/4d-gesture.png"/></center>
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -27,6 +29,8 @@
 [![View Demo](https://img.shields.io/badge/GoogleDrive-View_Demo-purple?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1uvXRPwfuKoAzY0q72FZy38dfvCss7yVi/view?usp=drive_link)
 
 <div style="text-align: justify">Developed a life-supportive real-time service for the blind to perceive indoor situations with the situation-aware technology. Implemented the system which can recognize objects and each locations, human faces with each actions (still, sit, walk and drink).</div>
+
+<center><img src="images/real-teller.png"/></center>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

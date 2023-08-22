@@ -5,7 +5,7 @@
 ### Data Science for Common Good
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-red?logo=adobe-acrobat-reader&logoColor=red)](https://ds.cs.umass.edu/sites/default/files/sea_grant.pdf)
 
-<div style="text-align: justify">Built an end-to-end platform to automate the detection and counting of herring fish species moving upstream in image and video data for efficient fishery management.
+<div style="text-align: justify">Built an end-to-end platform to automate the detection and counting of herring fish species moving upstream in image and video data for efficient fishery management.</div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)

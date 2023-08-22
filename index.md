@@ -6,6 +6,7 @@
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-red?logo=adobe-acrobat-reader&logoColor=red)](https://ds.cs.umass.edu/sites/default/files/sea_grant.pdf)
 
 <div style="text-align: justify">Built an end-to-end platform to automate the detection and counting of herring fish species moving upstream in image and video data for efficient fishery management.</div>
+<br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -45,6 +46,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/Emotional-Sentiment-Classification-using-CNN/tree/main)
 
 <div style="text-align: justify">Proposed and implemented a simple 1D-CNN architecture to classify emotional sentiment based on EEG brainwave data. Achieved 97% accuracy on test set and improved into 98.13% test accuracy with additional feature selection method.</div>
+<br>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -69,6 +71,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/Token-level-Classification-for-Argument-Mining-with-Multitask-Learning)
 
 <div style="text-align: justify">Focused on modeling for the task of argumentative and rhetorical elements segmentation, adopting multitask learning approach, and explored the behavior of our proposed deep learning workflow which outperformed the baseline as well as achieved considerable token-level accuracy of 70.58%.</div>
+<br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)

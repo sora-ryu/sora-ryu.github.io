@@ -2,6 +2,19 @@
 ---
 ## Computer Vision
 
+### Data Science for Common Good
+[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-red?logo=adobe-acrobat-reader&logoColor=red)](https://ds.cs.umass.edu/sites/default/files/sea_grant.pdf)
+
+<div style="text-align: justify">Built an end-to-end platform to automate the detection and counting of herring fish species moving upstream in image and video data for efficient fishery management.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ### 4D Hand Gesture Recognition using Point Set
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/4D-Gesture-Recognition-using-Point-Sets)
 
@@ -52,6 +65,9 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/Token-level-Classification-for-Argument-Mining-with-Multitask-Learning)
 
 <div style="text-align: justify">Focused on modeling for the task of argumentative and rhetorical elements segmentation, adopting multitask learning approach, and explored the behavior of our proposed deep learning workflow which outperformed the baseline as well as achieved considerable token-level accuracy of 70.58%.</div>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
 ## Software Engineering

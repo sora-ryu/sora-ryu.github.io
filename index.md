@@ -16,6 +16,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
 ### 4D Hand Gesture Recognition using Point Set
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/4D-Gesture-Recognition-using-Point-Sets)
 
@@ -26,6 +27,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
 ### REAL:TELLER
 [![View Demo](https://img.shields.io/badge/GoogleDrive-View_Demo-purple?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1uvXRPwfuKoAzY0q72FZy38dfvCss7yVi/view?usp=drive_link)
 
@@ -53,6 +55,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
 ### ML Inference
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sora-ryu/ML-Inference)
 

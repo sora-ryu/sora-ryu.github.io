@@ -91,3 +91,16 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+## Data Science
+
+### Pharmacy ESQL Project
+
+<div style="text-align: justify">Implemented functionality to provide appropriate dataset with regard to user’s status, either doctor or patient, and utilized the same dataset to console applications by linking the program through PHP, SQL and C++.</div>
+<br>
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+

@@ -19,7 +19,7 @@ npm install --save-dev gh-pages
 
 ```
 
-And then, update **package.json** scripts
+And then, update **package.json** scripts and add homepage
 
 ```
 npm run deploy

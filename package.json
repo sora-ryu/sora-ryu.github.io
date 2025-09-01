@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sora-ryu.github.io",
+  "homepage": "https://sora-ryu.github.io/sora-ryu.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -16,12 +16,10 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ```
 npm install --save-dev gh-pages
-
 ```
 
 And then, update **package.json** scripts and add homepage
 
 ```
 npm run deploy
-
 ```
